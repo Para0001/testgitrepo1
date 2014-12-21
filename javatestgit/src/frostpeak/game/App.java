@@ -7,6 +7,15 @@ public class App {
 		System.out.println("New Thing!");
 		System.out.println("You got Git Pull working");
 		System.out.println("Something");
+		System.out.println("You got Git Pull working");
+		System.out.println("You got Git Pull working");
+		System.out.println("You got Git Pull working");
+		System.out.println("You got Git Pull working");
+		System.out.println("You got Git Pull working");
+		System.out.println("You got Git Pull working");
+		System.out.println("You got Git Pull working");
+		System.out.println("You got Git Pull working");
+		System.out.println("You got Git Pull working");
 	}
 
 }
