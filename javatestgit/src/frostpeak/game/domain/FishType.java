@@ -1,4 +1,4 @@
-package frostpeak.game;
+package frostpeak.game.domain;
 
 public enum FishType {
 	GOLDFISH,
