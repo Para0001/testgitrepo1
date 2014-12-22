@@ -1,12 +1,24 @@
 package frostpeak.game;
 
-import frostpeak.game.domain.Fish;
+import frostpeak.game.domain.School;
 
 public class App {
 
 	public static void main(String[] args) {
-		System.out.println("Nice and clean. :)");
-		System.out.println(new Fish().toString());
+		
+		School school = new School(10);
+		
+		school.catchFish();
+		school.catchFish();
+		school.catchFish();
+		school.catchFish();
+		school.catchFish();
+		school.catchFish();
+		school.catchFish();
+		school.catchFish();
+		school.catchFish();
+		school.catchFish();
+		
 	}
 
 }
